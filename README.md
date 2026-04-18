@@ -1,32 +1,33 @@
-# Mini Project: Python for Data Science (Astronomy)
+# List in Python (Mini Project)
 
-Repository ini berisi kumpulan mini project Python yang saya buat selama belajar dasar pemrograman dengan fokus pada data science dan astronomi.
+Folder ini berisi latihan penggunaan tipe data **list** dalam Python dengan tema astronomi.
 
-## Tujuan
-- Memahami konsep dasar Python
-- Membangun logika berpikir data science
-- Membuat portfolio sebagai bukti perkembangan belajar
+## Isi Project
 
-## Materi yang Dipelajari
-- List
-- Operasi dasar pada data
-- Analisis sederhana (sum, average, max, min)
+### 1. Dataset Objek Tata Surya
+Menyimpan data dasar seperti:
+- nama objek
+- jenis objek
+- jarak dari Matahari
 
-## Struktur Project
+### 2. Analisis Jarak dan Diameter Planet
+Melakukan analisis sederhana:
+- total jarak
+- rata-rata jarak
+- diameter terbesar dan terkecil
 
-### 📁 list/
-Berisi latihan penggunaan list dalam Python dengan tema astronomi:
+### 3. Analisis Data Eksoplanet
+Menggunakan data planet di luar tata surya untuk:
+- menghitung rata-rata
+- mencari nilai maksimum dan minimum
+- memahami struktur dataset
 
-1. Level 1 - Dataset objek tata surya  
-2. Level 2 - Analisis jarak dan diameter planet  
-3. Level 3 - Analisis data eksoplanet  
+## Tujuan Pembelajaran
 
-## Tools yang Digunakan
-- Python
-- Visual Studio Code
-- Git & GitHub
+- Memahami penggunaan list
+- Mengolah data sederhana
+- Melatih dasar data science dengan Python
 
 ## Catatan
-Project ini dibuat sebagai bagian dari proses belajar dan akan terus dikembangkan seiring peningkatan skill.
 
----
+Project ini dibuat sebagai bagian dari proses belajar Python dan akan terus dikembangkan.
